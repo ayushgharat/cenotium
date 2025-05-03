@@ -79,9 +79,9 @@ Required dependencies (see requirements.txt)
 Cloud service accounts (AWS, Supabase, etc.)
 
 # 🤝 Contributors  
+<a href="https://github.com/ayushgharat" target="_blank">Ayush Gharat</a>  
 <a href="https://github.com/abhipi" target="_blank">Abhishek Pillai</a>  
 <a href="https://github.com/Shrey1306" target="_blank">Shrey Gupta</a>  
-<a href="https://github.com/ayushgharat" target="_blank">Ayush Gharat</a>  
 <a href="https://github.com/Bajo-Adi" target="_blank">Aditya Bajoria</a>
 
 ---
